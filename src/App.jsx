@@ -39,6 +39,7 @@ function App() {
           ))}
         </section>
         <button onClick={handleClick}>Repondre</button>
+        <button onClick={handleClick}>Avancer</button>
       </div>
     </>
   )
